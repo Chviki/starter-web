@@ -10,11 +10,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 ## Deployment
 
-Someting realy mportant 
-1
-2
-2
-2
-bpajbvpoaaoefoiaeieiej
+Someting realy important
 ## How to contribute
 
