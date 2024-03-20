@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 Someting realy important
 ## How to contribute
 
+\new cahnge for rebase
 ## Copyright 
 
 Shot Notice for Copyright
